@@ -1,0 +1,4 @@
+#Sat Nov 02 18:23:14 BRT 2019
+base.0=/Users/fernando/Documents/workspace_flutter/cont_pessoa/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
